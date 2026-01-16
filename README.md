@@ -9,10 +9,10 @@ Source: Kaggle
 File used: train.csv
 
 # **Tools & Libraries Used**
-*Python
-*Pandas
-*NumPy
-*Matplotlib
+* Python
+* Pandas
+* NumPy
+* Matplotlib
 
 # **Steps Performed**
 ### __1. Load Dataset & Identify Missing Values__
