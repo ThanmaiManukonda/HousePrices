@@ -14,8 +14,8 @@ Pandas
 NumPy
 Matplotlib
 
-# ** Steps Performed**
-### __1. Load Dataset & Identify Missing Values
+# **Steps Performed**
+### __1. Load Dataset & Identify Missing Values__
 Loaded the dataset using Pandas
 Identified missing values using .isnull().sum()
 ### __2. Visualize Missing Data__
