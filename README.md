@@ -13,7 +13,7 @@ ___
 * Pandas
 * NumPy
 * Matplotlib
-
+___
 # **Steps Performed**
 ### __1. Load Dataset & Identify Missing Values__
 Loaded the dataset using Pandas
@@ -34,11 +34,14 @@ Checked dataset structure using .info()
 ### __7. Compare Before vs After__
 Confirmed dataset size and quality after cleaning
 Final dataset shape: 1460 rows × 81 columns
+___
 # **Final Output**
 Cleaned dataset saved as cleaned_house_prices.csv
 Dataset is now free of missing values and ready for ML modeling
+___
 # **Conclusion**
 The dataset was successfully cleaned by applying appropriate missing value handling techniques. Data quality was improved without unnecessary data loss, making the dataset suitable for further analysis and machine learning tasks.
 Dataset is now free of missing values and ready for ML modeling
+___
 
 
